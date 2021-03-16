@@ -1,6 +1,6 @@
 {
   "name": "kbc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个小型脚手架工具",
   "bin": {
     "kbc": "bin/cli.js"
