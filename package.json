@@ -8,6 +8,20 @@
   "main": "lib/index.js",
   "author": " Knight Chen",
   "license": "NIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keuby/kb-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "parser",
+    "scaffolding",
+    "vue3"
+  ],
+  "bugs": {
+    "url": "https://github.com/keuby/kb-cli/issues"
+  },
+  "homepage": "https://github.com/keuby/kb-cli#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
