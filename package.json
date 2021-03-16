@@ -1,9 +1,9 @@
 {
-  "name": "kb-cli",
+  "name": "kbc",
   "version": "1.0.0",
   "description": "一个小型脚手架工具",
   "bin": {
-    "kb-cli": "bin/cli.js"
+    "kbc": "bin/cli.js"
   },
   "main": "lib/index.js",
   "author": " Knight Chen",
